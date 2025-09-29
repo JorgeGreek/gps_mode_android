@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gps_mode</string>
+    <string name="mapbox_key">pk.eyJ1IjoiY2xpb211c2VhcHAiLCJhIjoiY2tncnd4Z29nMGk3ajMwbzdubXBvb3dpaCJ9.9q1JVsvahRl2SLTvDhkSQg</string>
+    <string name="starting_point">Starting point</string>
+</resources>
